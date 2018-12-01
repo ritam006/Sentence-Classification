@@ -1,7 +1,8 @@
 # Sentence-Classification
 Using 1-Dimensional CNN to classify movie reviews
 
-##1-Dimensional Convolutions
+### 1-Dimensional Convolutions
+
 When we hear about Convolutional Neural Network (CNNs), we typically think of Computer Vision. CNNs were responsible for major breakthroughs in Image Classification and are the core of most Computer Vision systems today, from Facebook’s automated photo tagging to self-driving cars.
 
 More recently we’ve also started to apply CNNs to problems in Natural Language Processing and gotten some interesting results.
